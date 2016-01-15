@@ -6,5 +6,4 @@ class ApplicationController < ActionController::Base
     render text: "hello,new new world"
   end
 
-
 end
